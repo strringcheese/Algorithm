@@ -1,3 +1,8 @@
+#include <iostream>
+#include <cstdio>
+#include <vector>
+#include <algorithm>
+
 int main() {
   int n; scanf("%d", &n);
   vector<int> km;
